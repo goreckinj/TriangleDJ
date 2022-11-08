@@ -1,4 +1,2 @@
 # ignore node_modules folder
 node_modules/
-# store botkey in env variable
-.env
