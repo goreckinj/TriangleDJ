@@ -1,0 +1,18 @@
+{
+  "name": "triangle_dj",
+  "version": "1.0.0",
+  "description": "Supposed to play music by default and allows queueing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goreckinj",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.3.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.26.3"
+  }
+}
