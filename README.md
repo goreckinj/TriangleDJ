@@ -12,7 +12,7 @@ npm install opusscript
 
 # make sure to download only ONE version of python. 
 # Uninstall all version and reinstall one if needed.
-# Can't have nopde-opus in node_modules folder (just git ignore that)
+# Can't have node-opus in node_modules folder (just .gitignore that)
 ```
 
 ## Linux (Ubuntu)
