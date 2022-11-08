@@ -10,8 +10,9 @@ A Discord bot meant to play music, queue music and have an sqlite3 database to s
 choco install ffmpeg
 npm install opusscript
 
-# make sure to download only ONE version of python. Unins-
-# take all version and reinstall one if needed. Can't have nopde-opus in node_modules folder (just git ignore that)
+# make sure to download only ONE version of python. 
+# Uninstall all version and reinstall one if needed.
+# Can't have nopde-opus in node_modules folder (just git ignore that)
 ```
 
 ## Linux (Ubuntu)
