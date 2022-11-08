@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    container_name: triangledj
+    restart: always
+    environment:
+      - DISCORD_BOTKEY=${DISCORD_BOTKEY}
